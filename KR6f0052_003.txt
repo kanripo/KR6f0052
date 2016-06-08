@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:02.137464
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:12
 #+TITLE: 勝鬘寶窟
 #+PROPERTY: CBETA_ID T37n1744
 #+PROPERTY: ID KR6f0052
